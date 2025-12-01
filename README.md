@@ -75,3 +75,5 @@ Statistics: Accurately displays a summary table.
 ## Links
 
 **GitHub Repo:** https://github.com/haileyjkim/demographics-dashboard
+
+**Cloud Deployment URL:** https://demographics-dashboard-haileyjkim.onrender.com/
